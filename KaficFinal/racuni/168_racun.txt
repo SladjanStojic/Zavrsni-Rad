@@ -1,0 +1,7 @@
+VREME	2024-03-22 09:29:58.0
+KONOBAR	Marko	Rajicevic
+RB	NAZIV	KOLICINA	CENA	PDV	UKUPNO
+---------------------------------------
+1	Votka	1	200.0	25.0	250.0
+---------------------------------------
+					UKUPNO: 250.0

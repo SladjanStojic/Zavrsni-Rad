@@ -1,0 +1,7 @@
+VREME	2024-03-24 15:58:39.0
+KONOBAR	JovoZ	JovoZ
+RB	NAZIV	KOLICINA	CENA	PDV	UKUPNO
+---------------------------------------
+1	Votka	1	200.0	25.0	250.0
+---------------------------------------
+					UKUPNO: 250.0

@@ -1,0 +1,7 @@
+VREME	2024-03-24 15:58:53.0
+KONOBAR	JovoZ	JovoZ
+RB	NAZIV	KOLICINA	CENA	PDV	UKUPNO
+---------------------------------------
+1	Coca-cola	2	150.0	20.0	360.0
+---------------------------------------
+					UKUPNO: 360.0
